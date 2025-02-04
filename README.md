@@ -3,9 +3,9 @@
 Welcome to my corner of the GitHub universe 🌌! I’m currently a BTech student majoring in Electronics and Computer Science, on a journey through the worlds of Web Technology, Software Engineering, and all things tech. When I'm not buried in code, you can find me brainstorming new projects as the Senior Graphical Officer at my college's Tinkerer's Society. 🚀
 
 A Little About Me:
-💻 Currently working on: Exploring the depths of software testing, quality assurance, and some cool personal projects.
+💻 Currently working on: Exploring the depths of web development, Machine Learning and some cool personal projects.
 
-🌱 Learning: How to master the intricacies of Web Technologies and make my way through the world of Agile Testing and ISO standards.
+🌱 Learning: How to master the intricacies of IOT and make my way through the world of Web designing.
 
 🎨 Skills: Combining the left and right brain – tech + creativity – whether it's coding, designing or tinkering with cool ideas.
 
@@ -13,8 +13,8 @@ A Little About Me:
 
 Fun Facts:
 🌟 I love concise, clear communication – because who doesn't like getting straight to the point?
-🎶 Organizing music festivals? I’ve learned that there's always more to planning than meets the eye!
-🛠️ Projects? Bring them on! Whether it's SDLC, STLC, or creative design, I’m all in.
+🎶 Organizing technical events? I’ve learned that there's always more to planning than meets the eye!
+🛠️ Projects? Bring them on! Whether it's development, AI , or creative design, I’m all in.
 Let's Connect!
 💬 Open to collaboration, new ideas, and a good discussion about tech, testing, or anything in between. Drop me a message and let’s build something awesome together.
 
